@@ -30,7 +30,7 @@ header h1 {
 }
 
 #sobre img.foto {
-    max-width: 150px;
+    max-width: 100px;
     border-radius: 50%;
     margin-top: 10px;
 }
