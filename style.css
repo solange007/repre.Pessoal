@@ -58,7 +58,7 @@ header h1 {
 }
 
 #videos {
-    margin: 10px 0;
+    margin: 5px 0;
 }
 
 #videos .video-lista {
@@ -68,7 +68,7 @@ header h1 {
 }
 
 #videos iframe {
-    margin: 10px;
+    margin: 5px;
 }
 
 #sites-estudo, #sites-utilizados {
